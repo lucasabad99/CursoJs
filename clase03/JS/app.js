@@ -41,7 +41,7 @@ while(entradaa != "ESC" ){
     debugger
     alert("El usuario ingresó "+ entradaa);
     //Volvemos a solicitar un dato. En la próxima iteración se evalúa si no es ESC.
-    entradaa = prompt("Ingresar otro dato");
+    entradaagit  = prompt("Ingresar otro dato");
 }
 
 let numero = 0;
