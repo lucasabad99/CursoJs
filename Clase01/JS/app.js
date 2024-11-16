@@ -28,7 +28,7 @@ const nombre_Alumno = "matias crevecoure";
 
 //calculadora
 
-/*const primerNumero = 50;
+const primerNumero = 50;
 const segundoNumero = 50;
 const resultado= primerNumero + segundoNumero;
 console.log("el resultado super calculado por el genio es" + " " + resultado );
@@ -47,7 +47,7 @@ const comision = "Comision";
 const numeroComision = 63330;
 const comision63330 = comision + " " + numeroComision;
 console.log(comision63330);
-*/
+
 //Trabajo en clase con parse
 const primerNume = parseInt(prompt("escriba el primer dato"));
 const secondNume = prompt("escriba el segundo dato");

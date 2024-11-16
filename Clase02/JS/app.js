@@ -1,4 +1,4 @@
-/*let edadUsuario = 18;
+let edadUsuario = 18;
 if(edadUsuario == 18){
     console.log("El chico ya puede ir preso");
 }
@@ -59,7 +59,7 @@ if ((nombreIngreso != "")  && (apellidoIngreso != "")) {
     alert("el nombre es: " + " " + nombreIngreso + " y el apellido es "+ apellidoIngreso );
 } else {
     alert("error: ingresar nombre y apellido");
-}*/
+}
 
 //Crear codigo para que yo completo el nombre pero no el apellido me diga ingrese su apellido
 //Que pasa si yo completo el apellido pero no el nombre, me diga ingrese su nombre
@@ -69,17 +69,17 @@ if ((nombreIngreso != "")  && (apellidoIngreso != "")) {
 //para que la condicion total sea true, las comparaciones tiene que ser true;
 //Puede haber multiples comparaciones
 
-/*let nombreIngresoUsuario = prompt("ingrese nombre");
+let nombreIngresoUsuario = prompt("ingrese nombre");
 debugger
 //toLowerCase es un metodo de js que pasa todo a minuscula
 if ((nombreIngresoUsuario.toLowerCase() === "ANA") || (nombreIngresoUsuario.toLocaleLowerCase() === "ana")) { 
     alert("el nombre es Ana");
 } else {
      alert("el nombre no es Ana");
-}*/
+}
 
-/*const usuarioCarnet = prompt("Tenes carnet?");
-const edadUsarioCarnet = parseInt(prompt("Ingrese su edad")); 
+//const usuarioCarnet = prompt("Tenes carnet?");
+//const edadUsarioCarnet = parseInt(prompt("Ingrese su edad")); 
 debugger
 if ( usuarioCarnet.toLowerCase() == "Si") {
     if (edadUsarioCarnet >= 18) {
@@ -91,7 +91,7 @@ if ( usuarioCarnet.toLowerCase() == "Si") {
 } else{
 
     console.log("llamare a tus padres");
-}*/
+}
 
    
 
@@ -100,7 +100,7 @@ if ( usuarioCarnet.toLowerCase() == "Si") {
 
 // Solicita al usuario que indique si tiene carnet de conducir
 
-/*const usuarioCarnet = prompt("¿Tenés carnet?");
+//const usuarioCarnet = prompt("¿Tenés carnet?");
 // Compara la respuesta en minúsculas para verificar si es "si"
 if (usuarioCarnet.toLowerCase() === "si") { 
     // Si el usuario tiene carnet, solicita la edad
@@ -118,11 +118,11 @@ if (usuarioCarnet.toLowerCase() === "si") {
     // Si el usuario no tiene carnet, muestra un mensaje en consola y en alerta
     console.log("Llamaré a tus padres");
     alert("Llamaré a tus padres");
-}*/
+}
 
 
-/*const usuarioCarnet = prompt("¿Tenés carnet?");
-const edadUsarioCarnet = parseInt(prompt("Ingrese su edad"));
+//const usuarioCarnet = prompt("¿Tenés carnet?");
+//const edadUsarioCarnet = parseInt(prompt("Ingrese su edad"));
 if ((usuarioCarnet.toLowerCase() === "si") && ( edadUsarioCarnet >= 18)){
 
     console.log("puede conducir tranquilo rey");
@@ -141,7 +141,7 @@ if ((usuarioCarnet.toLowerCase() === "si") && ( edadUsarioCarnet >= 18)){
 } else {
     console.log("marche preso");
     alert("marche preso");
-}*/
+}
     
 // Solicitamos la información del usuario
 // Solicitamos la información del usuario
