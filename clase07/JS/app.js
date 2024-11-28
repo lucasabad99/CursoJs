@@ -67,6 +67,7 @@ const jugadores =   [{nombre: "Lucas",valoracion: 89},
                     {nombre: "Armando", valoracion:60},
                     {nombre: "Victor C", valoracion:84}]
 
+                   
 jugadores.forEach(
     jugadores => { 
         if(jugadores.valoracion > 90){

@@ -1,4 +1,4 @@
-/*//ARRAYS
+//ARRAYS
 //Arrays es un tipo de datos
 //Los arrays pueden ser de numeros, string, objetos, funciones, mixtos, arrays, etc 
 //Los elementos del array siempre su indice es 0
@@ -50,11 +50,11 @@ console.log(numeros2);
 //el segundo es la cantidad de elementos a eliminar
 //cuenta inclusivve el numero donde arranca
 alumnos.splice(2,3);
-console.log(alumnos);*/
+console.log(alumnos);
 
 
 
-/*const nombresAlumnos = ["Mariel", "Nestor", "Lucas", "Vanesa", "Juan", "Chris"];
+const nombresAlumnos = ["Mariel", "Nestor", "Lucas", "Vanesa", "Juan", "Chris"];
 console.log(nombresAlumnos);
 const eliminar = (nombre) => {
 
@@ -68,7 +68,7 @@ if(index >= 0){
 };
 
 eliminar();
-console.log(nombresAlumnos);*/
+console.log(nombresAlumnos);
 
 class producto {
 
